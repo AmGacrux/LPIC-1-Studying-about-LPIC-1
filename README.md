@@ -19,3 +19,11 @@ CentOS 7.4
 ### 学習教材
 
 リナックスアカデミー 中島能和（2015）『Linx教科書 LPICレベル1 Version4.0対応 』　翔泳社.
+
+
+<details><summary>すごく長い文章とかプログラムとか</summary><div>
+
+```python
+print('Hello world!')
+```
+</div></details>
