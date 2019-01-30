@@ -6,6 +6,9 @@ LPIC-1学習の際、理解を深める為に作成したファイル集/Reposit
 
 ### 使用OS
 
+***<font color="red">テキスト(後述)の内容よりも新しいOSを使っているので注意。</font>***  
+***<font color="red">該当箇所では適宜注釈を入れている。</font>***
+
 Ubuntu 18.04LTS
 
 <details><summary>uname -a</summary><div>
