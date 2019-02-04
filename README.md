@@ -29,6 +29,9 @@ CentOS 7.4
 
 </div></details>
 
+Todo:  
+余裕があればVagurantとかDockerについても追記しておきたい。  
+
 ### 学習教材
 
     リナックスアカデミー 中島能和（2015）『Linx教科書 LPICレベル1 Version4.0対応 』　翔泳社.
