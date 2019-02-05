@@ -20,17 +20,21 @@ Linux ubuntu 4.15.0-44-generic #47-Ubuntu SMP Mon Jan 14 11:26:59 UTC 2019 x86_6
 
 </div></details>
 
-CentOS 7.4
+CentOS 7.4 (GNOME DESKTOP環境でインストール)
 
 <details><summary>uname -a</summary><div>
 
 ```shell
+$ uname -a
+Linux localhost.localdomain 3.10.0-957.el7.x86_64 #1 SMP Thu Nov 8 23:39:32 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
 </div></details>
 
+<!--
 Todo:  
-余裕があればVagurantとかDockerについても追記しておきたい。  
+余裕があればVagrantとかDockerについても追記しておきたい。  
+-->
 
 ### 学習教材
 
